@@ -13,6 +13,10 @@ export const routes: Routes = [
         component: LogoutComponent
     },
     {
+        path: 'cine',
+        component: CineComponent
+    },
+    {
         path: 'users',
         component: UsersComponent
     },
